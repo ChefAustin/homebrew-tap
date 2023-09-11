@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 class NomadPack < Formula
   desc "Nomad Pack"
   homepage "https://github.com/hashicorp/nomad-pack"

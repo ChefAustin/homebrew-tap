@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 class Levant < Formula
   desc "Levant"
   homepage "https://github.com/hashicorp/levant"

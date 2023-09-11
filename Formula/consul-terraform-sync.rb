@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 class ConsulTerraformSync < Formula
   desc "Consul Terraform Sync"
   homepage "https://github.com/hashicorp/consul-terraform-sync"
